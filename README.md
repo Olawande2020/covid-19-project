@@ -1,4 +1,13 @@
 # COVID-19 Data Analysis Project
+## Table of Content
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Technologies Used](#Technologies-Used)
+- [Dataset Description](#dataset--description)
+- [Data Cleaning Performed](#data-cleaning-performed)
+- [Key Analysis Questions](#key-analysis-questions)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 
 ## 1. Project Overview
 
